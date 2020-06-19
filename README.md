@@ -1,6 +1,6 @@
-# contato
+# Flutter Contato
 
-A new Flutter project.
+Projeto em Flutter para demonstrar as construção de telas para Android e IOS, usando pacotes Material e Cupertino respectivamente.
 
 ## Getting Started
 
